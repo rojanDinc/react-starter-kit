@@ -7,7 +7,7 @@ React Webpack Starter Kit is a template to start you of with a React project pre
 Clone this repo with
 
 ```bash
-git clone https://github.com/rojanDinc/react-starter-kit.git && <name-of-your-project-folder>
+git clone https://github.com/rojanDinc/react-starter-kit.git <name-of-your-project-folder>
 -
 cd <name-of-your-project-folder>
 ```
